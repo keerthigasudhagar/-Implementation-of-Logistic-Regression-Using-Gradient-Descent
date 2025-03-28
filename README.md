@@ -105,14 +105,28 @@ print(y_prednew)
 
 ## Output:
 
-#READ AND DISPLAY:
+# READ AND DISPLAY:
 
 ![424289456-e8f844eb-3848-4605-92ba-e6af3c09e209](https://github.com/user-attachments/assets/39cb8e9d-d338-42bb-a490-d605a32372a6)
 
-#CATEGORIZING COLUMNS:
+# CATEGORIZING COLUMNS:
 ![424289860-a34e5038-8eec-4e59-9faa-2e8381f45fa4](https://github.com/user-attachments/assets/7b377b06-79d7-4836-b64a-15c49c23c082)
 
-#LABELING COLUMNS AND DISPLAYING DATASET:
+# LABELING COLUMNS AND DISPLAYING DATASET:
+![424291210-35b55f28-4b52-4eb6-8f1a-0bfd5332bc80](https://github.com/user-attachments/assets/bb8a51b7-fb4d-4fef-8fe3-12d6edd55d81)
+
+# SEPERATE FEATURE X AND Y:
+![424364942-c7f84bae-3728-46e1-a6fb-1706cddb5eb9](https://github.com/user-attachments/assets/c0db5baa-f2d8-4270-a5a9-8d6f88cf300e)
+
+# ACCURACY:
+![424370174-b4b0f4e6-3c1a-445e-be6f-4636d0e9ea54](https://github.com/user-attachments/assets/30673251-f76d-4483-b065-f504b53069ea)
+
+# Y
+![424370987-7213ffdd-d224-41db-bc2c-74fcfaaf5ee2](https://github.com/user-attachments/assets/589e0239-43e5-451d-9f3c-3a12bc59127f)
+
+# Y_PREDNEW
+![424370646-fc2ebece-b25f-44c4-b3fd-2b3ec26bdd98](https://github.com/user-attachments/assets/37a14676-0532-4704-9624-e95b314ebfc8)
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
